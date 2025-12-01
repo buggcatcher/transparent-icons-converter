@@ -3,8 +3,8 @@
 È uno script bash che converte tutte i png colorati in png bianchi mantenendo la trasparenza.
 
 ## Requisiti
-Sistema Linux/macOS con shell bash 
-ImageMagick installato (sudo apt-get install imagemagick) 
+Sistema Linux/macOS con shell bash  
+ImageMagick installato (sudo apt-get install imagemagick)  
 
 ## Sposta lo script nella cartella contenente le icone da convertire ed eseguilo
 ```
